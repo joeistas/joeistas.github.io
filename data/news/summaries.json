@@ -1,1 +1,82 @@
-[{"url":"/news/2013/06/25/slice-keyboard-version-2p1","title":"Slice Keyboard Version 2.1","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v2.png","altText":"Slice Keyboard banner"},"summary":"Slice Keyboard version 2.1 is available for the full and demo versions. Version 2.1 fixes an  issue that would cause unintentional gestures on some devices that register touch events when a finger was hovering over the screen, most notably the Nexus 7.\n","publishedDate":"Jun 24, 2013"},{"url":"/news/2013/06/17/slice-keyboard-version-2","title":"Slice Keyboard Version 2","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v2.png","altText":"Slice Keyboard banner"},"summary":"Version 2 of Slice Keyboard is now available. Slice Keyboard is a keyboard for Android tablets and phones. Slice is designed specifically for typing on a touch screen without looking at the keyboard. Allowing you to focus on the content that you are typing and catch your errors while typing.\n","publishedDate":"Jun 16, 2013"},{"url":"/news/2012/12/11/slice-keyboard-version-1p1","title":"Slice Keyboard Version 1.1","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v1.png","altText":"Slice Keyboard banner"},"summary":"Version 1.1 of Slice Keyboard aims to make typing faster and more fluid and fix a couple of bugs.\n","publishedDate":"Dec 10, 2012"},{"url":"/news/2012/12/06/slice-keyboard-version-1p0p5","title":"Slice Keyboard Version 1.0.5","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v1.png","altText":"Slice Keyboard banner"},"summary":"Slice Keyboard version 1.0.5 has been released with a few bug fixes.\n","publishedDate":"Dec 5, 2012"},{"url":"/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard","title":"Slice Keyboard: Touch typing on a touch screen","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v1.png","altText":"Slice Keyboard banner"},"summary":"The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement.\n","publishedDate":"Dec 2, 2012"},{"url":"/news/2012/11/15/calctab-updated","title":"Calctab Updated","image":{"url":"/images/calctab/calctab-banner.png","altText":"CalcTab Scientific Calculator"},"summary":"CalcTab has been updated to version 1.1.1. The only significant change is the addition of cursor support in the equation box.\nYou can purchase CalcTab in the Google Play Store\n","publishedDate":"Nov 14, 2012"},{"url":"/news/2012/07/12/tweetwolf-is-released","title":"Tweetwolf is Released","image":{"url":"/images/tweetwolf-banner.png","altText":"Tweetwolf Banner"},"summary":"We have just released a new application for Android called TweetWolf. TweetWolf lets you play the party game Werewolf on Twitter. You can play with all of your twitter followers without having to sign up for another service. Also, your followers don't even need the app to play, they don't even need a smartphone if they have access to the Twitter website or a phone that can receive text messages. Players only need a Twitter account to join or even host a game.\n","publishedDate":"Jul 11, 2012"},{"url":"/news/2012/02/27/first-version-of-calctab-released","title":"CalcTab Released","image":{"url":"/images/calctab/calctab-banner.png","altText":"CalcTab Scientific Calculator"},"summary":"The Calctab Scientific Calculator has just been released and is now available in the Andorid Market. The CalcTab Scientific Calculator is a calculator that has an always available and scrollable list of the calculation history that can to be used to build new equations and retrace your steps. In addition all of the functions are accessible via the tabs below the active keypad and are grouped for easy access. For more information visit the CalcTab webpage or visit the Android Market.\n","publishedDate":"Feb 26, 2012"}]
+[
+  {
+    "url": "/news/2013/06/25/slice-keyboard-version-2p1",
+    "title": "Slice Keyboard Version 2.1",
+    "image": {
+      "url": "/images/slice-keyboard/slice-keyboard-banner-v2.png",
+      "altText": "Slice Keyboard banner"
+    },
+    "summary": "Slice Keyboard version 2.1 is available for the full and demo versions. Version 2.1 fixes an  issue that would cause unintentional gestures on some devices that register touch events when a finger was hovering over the screen, most notably the Nexus 7.\n",
+    "publishedDate": "Jun 25, 2013"
+  },
+  {
+    "url": "/news/2013/06/17/slice-keyboard-version-2",
+    "title": "Slice Keyboard Version 2",
+    "image": {
+      "url": "/images/slice-keyboard/slice-keyboard-banner-v2.png",
+      "altText": "Slice Keyboard banner"
+    },
+    "summary": "Version 2 of Slice Keyboard is now available. Slice Keyboard is a keyboard for Android tablets and phones. Slice is designed specifically for typing on a touch screen without looking at the keyboard. Allowing you to focus on the content that you are typing and catch your errors while typing.\n",
+    "publishedDate": "Jun 17, 2013"
+  },
+  {
+    "url": "/news/2012/12/11/slice-keyboard-version-1p1",
+    "title": "Slice Keyboard Version 1.1",
+    "image": {
+      "url": "/images/slice-keyboard/slice-keyboard-banner-v1.png",
+      "altText": "Slice Keyboard banner"
+    },
+    "summary": "Version 1.1 of Slice Keyboard aims to make typing faster and more fluid and fix a couple of bugs.\n",
+    "publishedDate": "Dec 11, 2012"
+  },
+  {
+    "url": "/news/2012/12/06/slice-keyboard-version-1p0p5",
+    "title": "Slice Keyboard Version 1.0.5",
+    "image": {
+      "url": "/images/slice-keyboard/slice-keyboard-banner-v1.png",
+      "altText": "Slice Keyboard banner"
+    },
+    "summary": "Slice Keyboard version 1.0.5 has been released with a few bug fixes.\n",
+    "publishedDate": "Dec 6, 2012"
+  },
+  {
+    "url": "/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard",
+    "title": "Slice Keyboard: Touch typing on a touch screen",
+    "image": {
+      "url": "/images/slice-keyboard/slice-keyboard-banner-v1.png",
+      "altText": "Slice Keyboard banner"
+    },
+    "summary": "The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement.\n",
+    "publishedDate": "Dec 3, 2012"
+  },
+  {
+    "url": "/news/2012/11/15/calctab-updated",
+    "title": "Calctab Updated",
+    "image": {
+      "url": "/images/calctab/calctab-banner.png",
+      "altText": "CalcTab Scientific Calculator"
+    },
+    "summary": "CalcTab has been updated to version 1.1.1. The only significant change is the addition of cursor support in the equation box.\nYou can purchase CalcTab in the Google Play Store\n",
+    "publishedDate": "Nov 15, 2012"
+  },
+  {
+    "url": "/news/2012/07/12/tweetwolf-is-released",
+    "title": "Tweetwolf is Released",
+    "image": {
+      "url": "/images/tweetwolf-banner.png",
+      "altText": "Tweetwolf Banner"
+    },
+    "summary": "We have just released a new application for Android called TweetWolf. TweetWolf lets you play the party game Werewolf on Twitter. You can play with all of your twitter followers without having to sign up for another service. Also, your followers don't even need the app to play, they don't even need a smartphone if they have access to the Twitter website or a phone that can receive text messages. Players only need a Twitter account to join or even host a game.\n",
+    "publishedDate": "Jul 12, 2012"
+  },
+  {
+    "url": "/news/2012/02/27/first-version-of-calctab-released",
+    "title": "CalcTab Released",
+    "image": {
+      "url": "/images/calctab/calctab-banner.png",
+      "altText": "CalcTab Scientific Calculator"
+    },
+    "summary": "The Calctab Scientific Calculator has just been released and is now available in the Andorid Market. The CalcTab Scientific Calculator is a calculator that has an always available and scrollable list of the calculation history that can to be used to build new equations and retrace your steps. In addition all of the functions are accessible via the tabs below the active keypad and are grouped for easy access. For more information visit the CalcTab webpage or visit the Android Market.\n",
+    "publishedDate": "Feb 27, 2012"
+  }
+]

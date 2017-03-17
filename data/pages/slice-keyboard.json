@@ -1,1 +1,83 @@
-{"title":"Slice Keyboard","parts":[{"type":"html","content":"<h1 id=\"slice-keyboard\">Slice Keyboard</h1>\n<p>Version 2 of Slice Keyboard is now available. Slice Keyboard is a keyboard for Android tablets and phones. Slice is designed specifically for typing on a touch screen without looking at the keyboard. Allowing you to focus on the content that you are typing and catch your errors while typing.</p>\n<p>The design is based on a row of home keys for anchoring your fingers. The home keys can used in a fixed position or be adjusted based on your hand placement. After pressing at least one home key slice keys are displayed arranged in a circle around the home keys. The slice keys open when its home key is unpressed. All of the keys are designed with the idea of not having to look at the keys. They are all relative to the home keys and the touch targets are big and extend beyond the shapes on the screen.</p>\n<div class=\"embed\">\n  <iframe src=\"https://www.youtube.com/embed/GVySd505dKc?rel=0&amp;showinfo=0?ecver=2\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n\n<p>Several new gestures have been added to Slice Keyboard in version 2: - Capitalizing characters can be done by flinging on the Slice keys. - Flinging Right on the Home Keys adds a Space - Flinging Left deletes a character</p>\n<p>Additional features in version 2: - New cleaner and simpler theme. - Typing can now be used with only one hand. - New one hand layout for better support of 7&quot; tablets - Adds support for large Android phones</p>\n"},{"type":"slide-show","slides":[{"url":"/images/slice-keyboard/screenshots/nexus10-land-IME.png","altText":"10\" Tablet Landscape Search"},{"url":"/images/slice-keyboard/screenshots/nexus10-land-text.png","altText":"10\" Tablet Landscape Typing"},{"url":"/images/slice-keyboard/screenshots/nexus7-port-typing.png","altText":"7\" Tablet Portait Typing"},{"url":"/images/slice-keyboard/screenshots/nexus7-port-IME.png","altText":"7\" Tablet Portait Search"},{"url":"/images/slice-keyboard/screenshots/galaxy-port.png","altText":"Phone Portait"},{"url":"/images/slice-keyboard/screenshots/galaxy-port-IME.png","altText":"Phone Portait Search"}]},{"type":"html","content":"<p>Slice Keyboard comes in two versions, the full version and a demo version.</p>\n<p>The full version can be used throughout the Android operating system and with all Android apps that work with the system keyboard. The full version of Slice Keyboard also comes with a typing area, and a Space Invaders like game for typing practice. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboard\">Purchase the full version of Slice Keyboard here.</a></p>\n<p>Slice Keyboard Demo only comes with the typing area, and a Space Invaders like game for typing practice. The demo version can not be used to replace the system keyboard. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboarddemo\">Slice Keyboard Demo can be downloaded in the Google Play Store here.</a></p>\n"}],"metadata":{"openGraphNamespace":"website: http://ogp.me/ns/website#","metaTags":{"og:title":"Slice Keyboard","og:type":"website","og:url":"http://www.istastech.com/slice-keyboard","og:image":"http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v2.png","og:site_name":"Istas Technologies LLC"},"jsonLD":[{"@context":"http://schema.org/","@type":"Organization","name":"Istas Technologies LLC","url":"http://www.istastech.com","logo":"http://www.istastech.com/images/logo.png"},{"@context":"http://schema.org/","@type":"SoftwareApplication","name":"Slice Keyboard","operatingSystem":"ANDROID","url":"http://www.istastech.com/slice-keyboard"},{"@context":"http://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.istastech.com/slice-keyboard","name":"Slice Keyboard"}}]}]},"url":"/slice-keyboard/"}
+{
+  "title": "Slice Keyboard",
+  "parts": [
+    {
+      "type": "html",
+      "content": "<h1 id=\"slice-keyboard\">Slice Keyboard</h1>\n<p>Version 2 of Slice Keyboard is now available. Slice Keyboard is a keyboard for Android tablets and phones. Slice is designed specifically for typing on a touch screen without looking at the keyboard. Allowing you to focus on the content that you are typing and catch your errors while typing.</p>\n<p>The design is based on a row of home keys for anchoring your fingers. The home keys can used in a fixed position or be adjusted based on your hand placement. After pressing at least one home key slice keys are displayed arranged in a circle around the home keys. The slice keys open when its home key is unpressed. All of the keys are designed with the idea of not having to look at the keys. They are all relative to the home keys and the touch targets are big and extend beyond the shapes on the screen.</p>\n<div class=\"embed\">\n  <iframe src=\"https://www.youtube.com/embed/GVySd505dKc?rel=0&amp;showinfo=0?ecver=2\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n\n<p>Several new gestures have been added to Slice Keyboard in version 2: - Capitalizing characters can be done by flinging on the Slice keys. - Flinging Right on the Home Keys adds a Space - Flinging Left deletes a character</p>\n<p>Additional features in version 2: - New cleaner and simpler theme. - Typing can now be used with only one hand. - New one hand layout for better support of 7&quot; tablets - Adds support for large Android phones</p>\n"
+    },
+    {
+      "type": "slide-show",
+      "slides": [
+        {
+          "url": "/images/slice-keyboard/screenshots/nexus10-land-IME.png",
+          "altText": "10\" Tablet Landscape Search"
+        },
+        {
+          "url": "/images/slice-keyboard/screenshots/nexus10-land-text.png",
+          "altText": "10\" Tablet Landscape Typing"
+        },
+        {
+          "url": "/images/slice-keyboard/screenshots/nexus7-port-typing.png",
+          "altText": "7\" Tablet Portait Typing"
+        },
+        {
+          "url": "/images/slice-keyboard/screenshots/nexus7-port-IME.png",
+          "altText": "7\" Tablet Portait Search"
+        },
+        {
+          "url": "/images/slice-keyboard/screenshots/galaxy-port.png",
+          "altText": "Phone Portait"
+        },
+        {
+          "url": "/images/slice-keyboard/screenshots/galaxy-port-IME.png",
+          "altText": "Phone Portait Search"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "content": "<p>Slice Keyboard comes in two versions, the full version and a demo version.</p>\n<p>The full version can be used throughout the Android operating system and with all Android apps that work with the system keyboard. The full version of Slice Keyboard also comes with a typing area, and a Space Invaders like game for typing practice. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboard\">Purchase the full version of Slice Keyboard here.</a></p>\n<p>Slice Keyboard Demo only comes with the typing area, and a Space Invaders like game for typing practice. The demo version can not be used to replace the system keyboard. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboarddemo\">Slice Keyboard Demo can be downloaded in the Google Play Store here.</a></p>\n"
+    }
+  ],
+  "metadata": {
+    "openGraphNamespace": "website: http://ogp.me/ns/website#",
+    "metaTags": {
+      "og:title": "Slice Keyboard",
+      "og:type": "website",
+      "og:url": "http://www.istastech.com/slice-keyboard",
+      "og:image": "http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v2.png",
+      "og:site_name": "Istas Technologies LLC"
+    },
+    "jsonLD": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Istas Technologies LLC",
+        "url": "http://www.istastech.com",
+        "logo": "http://www.istastech.com/images/logo.png"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "SoftwareApplication",
+        "name": "Slice Keyboard",
+        "operatingSystem": "ANDROID",
+        "url": "http://www.istastech.com/slice-keyboard"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "http://www.istastech.com/slice-keyboard",
+              "name": "Slice Keyboard"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "url": "/slice-keyboard/"
+}
