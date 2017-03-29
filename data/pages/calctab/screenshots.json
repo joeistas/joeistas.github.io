@@ -1,1 +1,85 @@
-{"title":"CalcTab Scientific Calculator Screenshots","parts":[{"type":"slide-show","options":{"fullWidth":true},"slides":[{"url":"/images/calctab/screenshots/screenshot1.png"},{"url":"/images/calctab/screenshots/screenshot2.png"},{"url":"/images/calctab/screenshots/screenshot3.png"},{"url":"/images/calctab/screenshots/screenshot4.png"},{"url":"/images/calctab/screenshots/screenshot5.png"}]}],"metadata":{"openGraphNamespace":"website: http://ogp.me/ns/website#","metaTags":{"description":"CalcTab screenshots","og:description":"CalcTab screenshots","og:title":"CalcTab Scientific Calculator Screenshots","og:type":"website","og:url":"http://www.istastech.com/calctab/screenshots","og:image":"http://www.istastech.com/images/calctab/screenshots/screenshot1.png","og:site_name":"Istas Technologies LLC"},"jsonLD":[{"@context":"http://schema.org/","@type":"Organization","name":"Istas Technologies LLC","url":"http://www.istastech.com","logo":"http://www.istastech.com/images/logo.png"},{"@context":"http://schema.org/","@type":"SoftwareApplication","name":"CalcTab Scientific Calculator","operatingSystem":"ANDROID","url":"http://www.istastech.com/calctab"},{"@context":"http://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.istastech.com/calctab","name":"CalcTab Scientific Calculator"}},{"@type":"ListItem","position":2,"item":{"@id":"http://www.istastech.com/calctab/screenshots","name":"CalcTab Scientific Calculator Screenshots"}}]}]},"breadcrumbs":[{"title":"CalcTab Scientific Calculator","url":"http://www.istastech.com/calctab"}],"url":"/calctab/screenshots"}
+{
+  "title": "CalcTab Scientific Calculator Screenshots",
+  "parts": [
+    {
+      "type": "slide-show",
+      "options": {
+        "fullWidth": true
+      },
+      "slides": [
+        {
+          "url": "/images/calctab/screenshots/screenshot1.png"
+        },
+        {
+          "url": "/images/calctab/screenshots/screenshot2.png"
+        },
+        {
+          "url": "/images/calctab/screenshots/screenshot3.png"
+        },
+        {
+          "url": "/images/calctab/screenshots/screenshot4.png"
+        },
+        {
+          "url": "/images/calctab/screenshots/screenshot5.png"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "openGraphNamespace": "website: http://ogp.me/ns/website#",
+    "metaTags": {
+      "description": "CalcTab screenshots",
+      "og:description": "CalcTab screenshots",
+      "og:title": "CalcTab Scientific Calculator Screenshots",
+      "og:type": "website",
+      "og:url": "http://www.istastech.com/calctab/screenshots",
+      "og:image": "http://www.istastech.com/images/calctab/screenshots/screenshot1.png",
+      "og:site_name": "Istas Technologies LLC"
+    },
+    "jsonLD": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Istas Technologies LLC",
+        "url": "http://www.istastech.com",
+        "logo": "http://www.istastech.com/images/logo.png"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "SoftwareApplication",
+        "name": "CalcTab Scientific Calculator",
+        "operatingSystem": "ANDROID",
+        "url": "http://www.istastech.com/calctab"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "http://www.istastech.com/calctab",
+              "name": "CalcTab Scientific Calculator"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "http://www.istastech.com/calctab/screenshots",
+              "name": "CalcTab Scientific Calculator Screenshots"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumbs": [
+    {
+      "title": "CalcTab Scientific Calculator",
+      "url": "http://www.istastech.com/calctab"
+    }
+  ],
+  "url": "/calctab/screenshots"
+}
