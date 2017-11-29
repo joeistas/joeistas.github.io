@@ -1,1 +1,12 @@
-[{"imageUrl":"/images/calctab/calctab-banner.png","linkUrl":"/calctab","altText":"CalcTab Scientific Calendar"},{"imageUrl":"/images/slice-keyboard/slice-keyboard-banner-v2.png","linkUrl":"/slice-keyboard","altText":"Slice Keyboard"}]
+[
+  {
+    "imageUrl": "/images/calctab/calctab-banner.png",
+    "linkUrl": "/calctab",
+    "altText": "CalcTab Scientific Calendar"
+  },
+  {
+    "imageUrl": "/images/slice-keyboard/slice-keyboard-banner-v2.png",
+    "linkUrl": "/slice-keyboard",
+    "altText": "Slice Keyboard"
+  }
+]

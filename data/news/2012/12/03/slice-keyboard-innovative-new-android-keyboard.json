@@ -1,1 +1,91 @@
-{"title":"Slice Keyboard: Touch typing on a touch screen","image":{"url":"/images/slice-keyboard/slice-keyboard-banner-v1.png","altText":"Slice Keyboard banner"},"summary":"The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement.\n","parts":[{"type":"html","content":"<p>The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice&#39;s main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement. Also you have easy access to punctuation, special characters and a number pad. Slice keyboard supports Android tablets 7&quot; and larger.</p>\n<div class=\"embed\">\n  <iframe src=\"https://www.youtube.com/embed/YVhDbhH7nZ0?rel=0&amp;showinfo=0?ecver=2\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n\n<p>Slice Keyboard comes in two versions, the full version and a demo version.</p>\n<p>The full version can be used throughout the Android operating system and with all Android apps that work with the system keyboard. The full version of Slice Keyboard also comes with a typing area, and a Space Invaders like game for typing practice. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboard\">Purchase the full version of Slice Keyboard here.</a></p>\n<p>Slice Keyboard Demo only comes with the typing area, and a Space Invaders like game for typing practice. The demo version can not be used to replace the system keyboard. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboarddemo\">Slice Keyboard Demo can be downloaded in the Google Play Store here.</a></p>\n"}],"metadata":{"openGraphNamespace":"article: http://ogp.me/ns/article#","metaTags":{"description":"The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n","og:title":"Slice Keyboard: Touch typing on a touch screen","og:type":"article","og:url":"http://www.istastech.com/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard","og:image":"http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v1.png","og:site_name":"Istas Technologies LLC","article:published_time":"2012-12-03","og:description":"The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n"},"jsonLD":[{"@type":"BlogPosting","headline":"Slice Keyboard: Touch typing on a touch screen","description":"The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n","image":{"@type":"ImageObject","url":"http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v1.png"},"datePublished":"2012-12-03","author":{"@context":"http://schema.org/","@type":"Organization","name":"Istas Technologies LLC","url":"http://www.istastech.com","logo":"http://www.istastech.com/images/logo.png","contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"support@istastech.com","url":"http://www.istastech.com"},"sameAs":"http://www.twitter.com/istastech"}},{"@context":"http://schema.org/","@type":"SoftwareApplication","name":"Slice Keyboard","operatingSystem":"ANDROID","applicationCategory":"BusinessApplication","url":"http://www.istastech.com/slice-keyboard"},{"@context":"http://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.istastech.com/news","name":"Istas Technologies News"}},{"@type":"ListItem","position":2,"item":{"@id":"http://www.istastech.com/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard","name":"Slice Keyboard: Touch typing on a touch screen"}}]}]},"breadcrumbs":[{"title":"Istas Technologies News","url":"http://www.istastech.com/news"}],"publishedDate":"Dec 3, 2012","url":"/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard"}
+{
+  "title": "Slice Keyboard: Touch typing on a touch screen",
+  "image": {
+    "url": "/images/slice-keyboard/slice-keyboard-banner-v1.png",
+    "altText": "Slice Keyboard banner"
+  },
+  "summary": "The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement.\n",
+  "parts": [
+    {
+      "type": "html",
+      "content": "<p>The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice&#39;s main innovation is a blank home row where you place your fingers. Then keys are shown depending on which fingers are placed on the home row. Each key is in a direction relative to the keys on the home row. This allows you to type without having to look at the keys. The home row positions can statically placed or adjust to your finger placement. Also you have easy access to punctuation, special characters and a number pad. Slice keyboard supports Android tablets 7&quot; and larger.</p>\n<div class=\"embed\">\n  <iframe src=\"https://www.youtube.com/embed/YVhDbhH7nZ0?rel=0&amp;showinfo=0?ecver=2\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n\n<p>Slice Keyboard comes in two versions, the full version and a demo version.</p>\n<p>The full version can be used throughout the Android operating system and with all Android apps that work with the system keyboard. The full version of Slice Keyboard also comes with a typing area, and a Space Invaders like game for typing practice. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboard\">Purchase the full version of Slice Keyboard here.</a></p>\n<p>Slice Keyboard Demo only comes with the typing area, and a Space Invaders like game for typing practice. The demo version can not be used to replace the system keyboard. <a href=\"http://play.google.com/store/apps/details?id=com.istastech.android.slicekeyboarddemo\">Slice Keyboard Demo can be downloaded in the Google Play Store here.</a></p>\n"
+    }
+  ],
+  "metadata": {
+    "openGraphNamespace": "article: http://ogp.me/ns/article#",
+    "metaTags": {
+      "description": "The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n",
+      "og:title": "Slice Keyboard: Touch typing on a touch screen",
+      "og:type": "article",
+      "og:url": "http://www.istastech.com/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard",
+      "og:image": "http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v1.png",
+      "og:site_name": "Istas Technologies LLC",
+      "article:published_time": "2012-12-03",
+      "og:description": "The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n"
+    },
+    "jsonLD": [
+      {
+        "@type": "BlogPosting",
+        "headline": "Slice Keyboard: Touch typing on a touch screen",
+        "description": "The Slice Keyboard is an innovative touch keyboard design that makes it possible to touch type on a touch screen. Slice's main innovation is a blank home row where you place your fingers.\n",
+        "image": {
+          "@type": "ImageObject",
+          "url": "http://www.istastech.com/images/slice-keyboard/slice-keyboard-banner-v1.png"
+        },
+        "datePublished": "2012-12-03",
+        "author": {
+          "@context": "http://schema.org/",
+          "@type": "Organization",
+          "name": "Istas Technologies LLC",
+          "url": "http://www.istastech.com",
+          "logo": "http://www.istastech.com/images/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "email": "support@istastech.com",
+            "url": "http://www.istastech.com"
+          },
+          "sameAs": "http://www.twitter.com/istastech"
+        }
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "SoftwareApplication",
+        "name": "Slice Keyboard",
+        "operatingSystem": "ANDROID",
+        "applicationCategory": "BusinessApplication",
+        "url": "http://www.istastech.com/slice-keyboard"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "http://www.istastech.com/news",
+              "name": "Istas Technologies News"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "http://www.istastech.com/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard",
+              "name": "Slice Keyboard: Touch typing on a touch screen"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumbs": [
+    {
+      "title": "Istas Technologies News",
+      "url": "http://www.istastech.com/news"
+    }
+  ],
+  "publishedDate": "Dec 3, 2012",
+  "url": "/news/2012/12/03/slice-keyboard-innovative-new-android-keyboard"
+}
